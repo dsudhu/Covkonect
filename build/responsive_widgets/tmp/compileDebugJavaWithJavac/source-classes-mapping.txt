@@ -1,0 +1,2 @@
+com/polazzo/responsive_widgets/BuildConfig.java
+ com.polazzo.responsive_widgets.BuildConfig
